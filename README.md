@@ -24,10 +24,9 @@ Pastikan di laptop Anda sudah terinstall:
 | Tool        | Cara Cek                   | Install                       |
 | ----------- | -------------------------- | ----------------------------- |
 | Node.js     | `node --version` (v18+)  | https://nodejs.org            |
-| VS Code     | Sudah terbuka              | https://code.visualstudio.com |
-| Antigravity | Extension aktif di VS Code | Dari VS Code Marketplace      |
+| Antigravity | buka aplikasi google antigravity | Dari VS Code Marketplace      |
 
-> ✅ **Siap mulai** jika: Node.js terinstall, VS Code terbuka, Antigravity aktif.
+> ✅ **Siap mulai** jika: Node.js terinstall, Antigravity terbuka.
 
 ---
 
