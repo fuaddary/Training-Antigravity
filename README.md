@@ -24,7 +24,7 @@ Pastikan di laptop Anda sudah terinstall:
 | Tool        | Cara Cek                   | Install                       |
 | ----------- | -------------------------- | ----------------------------- |
 | Node.js     | `node --version` (v18+)  | https://nodejs.org            |
-| Antigravity | buka aplikasi google antigravity | Dari VS Code Marketplace      |
+| Antigravity | buka aplikasi google antigravity | Dari website antigravity      |
 
 > ✅ **Siap mulai** jika: Node.js terinstall, Antigravity terbuka.
 
@@ -42,7 +42,7 @@ Pada sesi ini, Anda akan membuat sebuah aplikasi monolith dari nol menggunakan A
 
 ### Step 1: Buat Folder Project
 
-Buka **Terminal** di VS Code (`Ctrl+`` ` atau `View → Terminal`), lalu jalankan:
+Buka **Terminal** di Antigravity (`Ctrl+`` ` atau `View → Terminal`), lalu jalankan:
 
 ```bash
 mkdir my-monolith-app
